@@ -8,5 +8,7 @@ public class Main {
     System.out.println(msg);
 
     System.out.printn(msg);
+
+    System.out.println(msg)
   }
 }
